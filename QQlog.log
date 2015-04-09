@@ -1,0 +1,26 @@
+[2015-04-09 16:18:03]  WebQQ.py[line:122] INFO get sign : ymXYiruf7gXfFF1ygFuVOnT1K-T87dxHGAWPw*UhLQEa*J2ezW83NljQeoA8Yz4k
+[2015-04-09 16:18:04]  WebQQ.py[line:128] DEBUG ptui_checkVC('0','!IWJ','\x00\x00\x00\x00\xb1\x22\x7a\xf6','17ccf6e02d816a30548b643400b109f77cc8c8468e1f35acccd49c4a4d266861b177bd88d82a1a7f599c08d6eb0a8089f3526ed5b0db55f5','0');
+[2015-04-09 16:18:04]  WebQQ.py[line:154] INFO !IWJ
+[2015-04-09 16:18:04]  WebQQ.py[line:156] INFO verifysession: 17ccf6e02d816a30548b643400b109f77cc8c8468e1f35acccd49c4a4d266861b177bd88d82a1a7f599c08d6eb0a8089f3526ed5b0db55f5
+[2015-04-09 16:18:04]  WebQQ.py[line:168] INFO PTWebQQ: 071db8359ec3fa651e6e23029a4778b208885c74394d44fe17073dd55a76b551
+[2015-04-09 16:18:05]  WebQQ.py[line:179] DEBUG {"retcode":0,"result":{"uin":2971826934,"cip":3740508221,"index":1075,"port":38040,"status":"online","vfwebqq":"bb1a020e7c290ebc844428c63bcdf5c6f7e29a1d28e8ecddfc793efba681a967337d3d7aee57b826","psessionid":"8368046764001d636f6e6e7365727665725f77656271714031302e3133392e372e31363000005d79000002a2026e0400f67a22b16d0000000a40504c626a6a4a6d31386d00000028bb1a020e7c290ebc844428c63bcdf5c6f7e29a1d28e8ecddfc793efba681a967337d3d7aee57b826","user_state":0,"f":0}}
+
+[2015-04-09 16:18:05]  WebQQ.py[line:189] INFO Login success
+[2015-04-09 16:18:16]  connectionpool.py[line:259] INFO Starting new HTTP connection (1): www.tuling123.com
+[2015-04-09 16:18:17]  connectionpool.py[line:390] DEBUG Setting read timeout to None
+[2015-04-09 16:18:17]  connectionpool.py[line:430] DEBUG "GET /openapi/api?key=1a37e6f408e5b6dcb7b6601bd7ad746a&info=%E5%98%BF%EF%BC%8C%E8%92%8B%E5%93%A5%20 HTTP/1.1" 200 None
+[2015-04-09 16:18:41]  connectionpool.py[line:259] INFO Starting new HTTP connection (1): www.tuling123.com
+[2015-04-09 16:18:41]  connectionpool.py[line:390] DEBUG Setting read timeout to None
+[2015-04-09 16:18:41]  connectionpool.py[line:430] DEBUG "GET /openapi/api?key=1a37e6f408e5b6dcb7b6601bd7ad746a&info=%E4%BB%8A%E6%99%9A%E5%90%83%E4%BB%80%E4%B9%88%20 HTTP/1.1" 200 None
+[2015-04-09 16:19:34]  WebQQ.py[line:122] INFO get sign : KL0bZU0v7b-F2RTmXPs-JjTLvY212XQJnabbxDho5kwH*c-FkIV5evoNmFAOozJE
+[2015-04-09 16:19:34]  WebQQ.py[line:128] DEBUG ptui_checkVC('0','!KDD','\x00\x00\x00\x00\xb1\x22\x7a\xf6','cb7031ba57e20ce1514b0f0d2435a57dadb6437b4cfca50189933e5f784eb41715235c5cfc827639ecf931d3dcadf6742bfced9c9ae30b5c','0');
+[2015-04-09 16:19:34]  WebQQ.py[line:154] INFO !KDD
+[2015-04-09 16:19:34]  WebQQ.py[line:156] INFO verifysession: cb7031ba57e20ce1514b0f0d2435a57dadb6437b4cfca50189933e5f784eb41715235c5cfc827639ecf931d3dcadf6742bfced9c9ae30b5c
+[2015-04-09 16:19:34]  WebQQ.py[line:168] INFO PTWebQQ: 276dfed3d4313ad8652299d095dfa0fa8ceb59eeba9c878ce44738462cfbd510
+[2015-04-09 16:19:37]  WebQQ.py[line:179] DEBUG {"retcode":0,"result":{"uin":2971826934,"cip":3740508221,"index":1075,"port":38040,"status":"online","vfwebqq":"f776ea2a337e77a94faaf0c751ebaa6f016ddc11df8ab41411aec4cdc1a43d9489851c2e64d21832","psessionid":"8368046764001d636f6e6e7365727665725f77656271714031302e3133392e372e31363000005d79000002a2026e0400f67a22b16d0000000a4072397a6b57434637566d00000028f776ea2a337e77a94faaf0c751ebaa6f016ddc11df8ab41411aec4cdc1a43d9489851c2e64d21832","user_state":0,"f":0}}
+
+[2015-04-09 16:19:37]  WebQQ.py[line:189] INFO Login success
+[2015-04-09 16:19:42]  connectionpool.py[line:259] INFO Starting new HTTP connection (1): www.tuling123.com
+[2015-04-09 16:19:44]  connectionpool.py[line:390] DEBUG Setting read timeout to None
+[2015-04-09 16:19:45]  connectionpool.py[line:430] DEBUG "GET /openapi/api?key=1a37e6f408e5b6dcb7b6601bd7ad746a&info=%E6%88%91%E9%A5%BF%E4%BA%86%20 HTTP/1.1" 200 None
+[2015-04-09 16:19:50]  WebQQ.py[line:92] DEBUG send ok
